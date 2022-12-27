@@ -1,2 +1,3 @@
 # Tailwindcss-Landing-Page
- Project followed from Traversy Media YouTube Channel. 
+
+Followed Traversy Media's YouTube channel for this project.
